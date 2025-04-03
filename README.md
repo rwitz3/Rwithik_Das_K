@@ -8,7 +8,8 @@
 ---
 
 ## 🚀 SUMMARY  
-A Physics researcher with a keen interest in integrating technology and a solid scientific background. Trained in Computational techniques and material characterization. Self-motivated, dedicated, and adaptable in research practices. Being a quick and enthusiastic learner, I am eager to accept challenges even those extending beyond the core physics into interdisciplinary filed.
+_Physics researcher with a keen interest in integrating technology and a solid scientific background. Trained in computational techniques and material characterization. Self-motivated, dedicated, and adaptable in research practices. As a quick and enthusiastic learner, I embrace challenges extending beyond core physics into interdisciplinary fields._
+
 ---
 
 ## 🛠️ TECHNICAL SKILLS  
