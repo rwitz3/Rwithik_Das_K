@@ -3,7 +3,7 @@
 
 📍 Kozhikode, Kerala, India  
 📧 rwithik101@gmail.com | 📞 +91 9207431950  
-🔗 [LinkedIn](linkedin.com/in/rwithik-das-k-3a56b8235/) | 🎸 Guitarist @ Aathma Band  
+🔗 [LinkedIn](https://linkedin.com/in/rwithik-das-k-3a56b8235/) | 🎸 Guitarist @ Aathma Band  
 
 ---
 
@@ -14,10 +14,10 @@ Physics researcher with **M.Sc. in Physics (86%)** specializing in computational
 
 ## 🛠️ TECHNICAL SKILLS  
 **Quantum Tech**  
-`Qiskit` `PennyLane` `Cirq` `Classiq` `Quantum Espresso`  
+`Qiskit`  `Cirq` `Classiq` `PennyLane`
 
 **Computational Chemistry**  
-`Gaussian 16` `GaussView` `ChemCraft` `AIMAll` `OriginLab`  
+`Gaussian 16` `GaussView` `ChemCraft` `AIMAll` `OriginLab` `Quantum Espresso`
 
 **Programming**  
 `Python` `JavaScript` `Node.js` `Express.js` `MongoDB` `Angular`  
@@ -72,8 +72,8 @@ Physics researcher with **M.Sc. in Physics (86%)** specializing in computational
 ## 🏆 CERTIFICATIONS  
 | **Credential** | **Issuer** | Year |
 |----------------|------------|------|
-| The Coding School’s Introduction to Quantum Computing (two-semesters) course | 2025 |
-| Introductory Course on Quantum Computing, I-HUB QTF & IISER Pune | 2025 |
+| Introduction to Quantum Computing (two-semesters) course | The Coding School | 2025 |
+| Introductory Course on Quantum Computing, I-HUB QTF | IISER Pune | 2025 |
 | Womanium Global Quantum+AI Badge | Womanium | 2024 |
 | QBronze/QNickel Diplomas | QWorld | 2023 |
 | Full-Stack Developer (MEAN) | ICT Kerala | 2022 |
