@@ -3,7 +3,7 @@
 
 📍 Kozhikode, Kerala, India  
 📧 rwithik101@gmail.com | 📞 +91 9207431950  
-🔗 [LinkedIn](#) | 🎸 Guitarist @ Aathma Band  
+🔗 [LinkedIn](linkedin.com/in/rwithik-das-k-3a56b8235/) | 🎸 Guitarist @ Aathma Band  
 
 ---
 
@@ -30,7 +30,7 @@ Physics researcher with **M.Sc. in Physics (86%)** specializing in computational
 ## 🎓 EDUCATION  
 | **Degree** | **Institution** | **Period** | **Performance** |
 |------------|-----------------|------------|-----------------|
-| M.Sc. Physics | Karunya Institute of Technology | 2022-2024 | 86% (Distinction) |
+| M.Sc. Physics | Karunya Institute of Technology | 2022-2024 | 86% |
 | B.Sc. Physics | Zamorins Guruvayurappan College | 2018-2021 | 65.5% |
 | Higher Secondary | Rahmania HSS | 2016-2018 | 91% |
 | SSLC |Kunnamangalam HSS | 2016| 98 % | 
@@ -72,7 +72,6 @@ Physics researcher with **M.Sc. in Physics (86%)** specializing in computational
 ## 🏆 CERTIFICATIONS  
 | **Credential** | **Issuer** | Year |
 |----------------|------------|------|
-
 | The Coding School’s Introduction to Quantum Computing (two-semesters) course | 2025 |
 | Introductory Course on Quantum Computing, I-HUB QTF & IISER Pune | 2025 |
 | Womanium Global Quantum+AI Badge | Womanium | 2024 |
