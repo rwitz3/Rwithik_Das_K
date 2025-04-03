@@ -8,8 +8,7 @@
 ---
 
 ## 🚀 SUMMARY  
-Physics researcher with **M.Sc. in Physics (86%)** specializing in computational quantum chemistry and material science. Proven expertise in **DFT/TDDFT simulations**, quantum algorithm development, and full-stack engineering. Published first-author paper in Elsevier . 
-
+A Physics researcher with a keen interest in integrating technology and a solid scientific background. Trained in Computational techniques and material characterization. Self-motivated, dedicated, and adaptable in research practices. Being a quick and enthusiastic learner, I am eager to accept challenges even those extending beyond the core physics into interdisciplinary filed.
 ---
 
 ## 🛠️ TECHNICAL SKILLS  
@@ -90,12 +89,12 @@ Physics researcher with **M.Sc. in Physics (86%)** specializing in computational
 ---
 
 ## 🎸 BEYOND SCIENCE  
-- **Grade 3 Guitarist** (Trinity College London - Rock and Pop)  
-- Performed 50+ shows across Kerala with *Aathma Band*  
+- **Grade 4 Guitarist** (Trinity College London - Rock and Pop)  
+- Footballer   
 - Sci-fi enthusiast & amateur science communicator  
 
 ---
 
 ## 📫 LET'S COLLABORATE!  
 Open to research collaborations or quantum tech discussions:  
-📧 rwithik101@gmail.com | 🔗 [GitHub](#)
+📧 rwithik101@gmail.com | 🔗 [GitHub](https://github.com/rwitz3)
